@@ -8,5 +8,6 @@ The recent activity around Swift for TensorFlow touches on several disparate top
 - philipturner/swift-colab
 - philipturner/swift-reflection-mirror
 - [philipturner/swift-opencl](https://github.com/philipturner/swift-opencl) - Laying groundwork for the future OpenCL backend for S4TF. This will let me create custom OpenCL kernels, complementing the fast matrix multiplication kernels provided by [artyom-beilis/dlprimitives](https://github.com/artyom-beilis/dlprimitives).
+- The Metal backend is prototyped in private repositories, but they may become public in the future.
 
 The [s4tf](https://github.com/philipturner/s4tf) organization hosts inactive repositories formerly hosted by the [tensorflow](https://github.com/tensorflow) organization. Anyone is free to become a member, even as a symbolic gesture. Just contact me over GitHub or email.
