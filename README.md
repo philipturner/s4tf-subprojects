@@ -8,4 +8,4 @@ The new activity around Swift for TensorFlow touches on several disparate topics
 - philipturner/swift-reflection-mirror
 - philipturner/swift-opencl
 
-The [S4TF Organization](https://github.com/philipturner/s4tf) hosts inactive repositories formerly hosted by the [TensorFlow](https://github.com/tensorflow) organization. Anyone is free to become a member, even if just symbolically. To request to join, contact me over GitHub or email.
+The [s4tf](https://github.com/philipturner/s4tf) organization hosts inactive repositories formerly hosted by the [tensorflow](https://github.com/tensorflow) organization. Anyone is free to become a member, even if just symbolically. To request to join, contact me over GitHub or email.
