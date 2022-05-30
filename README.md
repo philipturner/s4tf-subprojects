@@ -16,4 +16,4 @@ The [s4tf](https://github.com/philipturner/s4tf) organization hosts inactive rep
 
 ## Not directly related
 
-- [philipturner/metal-fft](https://github.com/philipturner/metal-fft) has turned into satire of Google's attempt to end S4TF.
+- [philipturner/metal-fft](https://github.com/philipturner/metal-fft) has turned into satire of Google's archiving of S4TF.
