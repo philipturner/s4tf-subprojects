@@ -4,7 +4,7 @@
 
 The resurrection of Swift for TensorFlow touches on several disparate topics. This project ranges from bypassing the iOS sandbox to making OpenCL bindings to building IDE plugins. Here is an growing list of code created for the purpose of bringing back S4TF:
 
-- [s4tf/s4tf](https://github.com/s4tf/s4tf) - The current head branch of S4TF, forked from [tensorflow/swift-apis](https://github.com/tensorflow/swift-apis). I will eventually merge the awesome-looking [former README](https://github.com/s4tf/s4tf-docs) of tensorflow/swift into this repo.
+- [s4tf/s4tf](https://github.com/s4tf/s4tf) - The current head branch of S4TF, forked from tensorflow/swift-apis. I will eventually merge the awesome-looking [former README](https://github.com/s4tf/s4tf-docs) of tensorflow/swift into this repo.
 - [philipturner/swift-colab](https://github.com/philipturner/swift-colab) - The first large-scale task revolving around S4TF and a very useful tool in its own right. Brought Swift back to Google Colaboratory after the <s>official</s> predecessor Jupyter kernel was "sunset".
 - [swift4science/s4tf-docker](https://gitlab.com/swift4science/s4tf-docker) - Thanks to this repo, we know how to compile S4TF again. It is incorporated into the [S4TF build script](https://gist.github.com/philipturner/7aa063af04277d463c14168275878511), currently hosted as a GitHub gist. The gist will eventually be embedded into S4TF documentation.
 - [philipturner/differentiation](https://github.com/philipturner/differentiation) - Bypassing the fact that AutoDiff is disabled on release toolchains. This allows it to [run on iOS](https://github.com/philipturner/differentiation-ios-demo) - good news for anyone whose iPhone or iPad has a more powerful GPU than their old Intel Mac.
