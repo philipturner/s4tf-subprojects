@@ -1,4 +1,4 @@
-# Links Related to S4TF
+# Links/Roadmap of the New S4TF
 
 The new activity around Swift for TensorFlow touches on several disparate topics. Subprojects involve everything from bypassing Apple's iOS sandbox to making OpenCL kernels for machine learning. Here is an growing list of code created for the purpose of resurrecting S4TF:
 
