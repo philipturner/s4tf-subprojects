@@ -10,7 +10,10 @@ The resurrection of Swift for TensorFlow touches on several disparate topics. Th
 - [philipturner/differentiation](https://github.com/philipturner/differentiation) - Bypassing the fact that AutoDiff is disabled on release toolchains. This allows it to [run on iOS](https://github.com/philipturner/differentiation-ios-demo) - good news for anyone whose iPhone or iPad has a more powerful GPU than their old Intel Mac.
 - [philipturner/swift-reflection-mirror](https://github.com/philipturner/swift-reflection-mirror) - Reimplemented a runtime reflection feature that was strangely gated behind an inaccessible API. This briefly gave me a [good hearty scare](https://forums.swift.org/t/the-future-of-reflective-programming-in-swift/54956/17). Apple, why?
 - [philipturner/swift-opencl](https://github.com/philipturner/swift-opencl) - Laying groundwork for the future OpenCL backend. This will let me create custom OpenCL kernels, complementing the fast matrix multiplication kernels provided by [artyom-beilis/dlprimitives](https://github.com/artyom-beilis/dlprimitives).
-- [philipturner/metal-fft](https://github.com/philipturner/metal-fft) has turned into satire of Google's attempt to end S4TF.
 - The Metal backend is prototyped in private repositories, but they may become public in the future. 
 
 The [s4tf](https://github.com/philipturner/s4tf) organization hosts inactive repositories formerly hosted by the [tensorflow](https://github.com/tensorflow) organization. Anyone is free to become a member, even as a symbolic gesture. Just contact me over GitHub or email to request to join.
+
+## Not directly related
+
+- [philipturner/metal-fft](https://github.com/philipturner/metal-fft) has turned into satire of Google's attempt to end S4TF.
