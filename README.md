@@ -2,7 +2,7 @@
 
 > [tensorflow/swift](https://github.com/tensorflow/swift) is archived, but the project lives on.
 
-The resurrection of Swift for TensorFlow touches on several disparate topics. This project ranges from bypassing the iOS sandbox - to making OpenCL bindings - to building IDE plugins. Here is an growing list of code bases created for the purpose of bringing back S4TF. I am developing and maintaining all of this simultaneously, and can barely handle it alone. Any help is greatly appreciated!
+The resurrection of Swift for TensorFlow touches on several disparate topics. This project ranges from bypassing the iOS sandbox - to making OpenCL bindings - to building IDE plugins. Here is a growing list of code bases created for the purpose of bringing back S4TF. I am developing and maintaining all of this simultaneously, and can barely handle it alone. Any help is greatly appreciated!
 
 - [s4tf/s4tf](https://github.com/s4tf/s4tf) - The current head branch of S4TF, forked from tensorflow/swift-apis. I plan to merge the awesome-looking [former README](https://github.com/s4tf/s4tf-docs) of tensorflow/swift into this repo.
 - [philipturner/swift-colab](https://github.com/philipturner/swift-colab) - The first large-scale task revolving around S4TF and a very useful tool in its own right. Brought Swift back to Google Colaboratory after the <s>official</s> predecessor Jupyter kernel was "sunset".
