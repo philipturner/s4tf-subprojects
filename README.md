@@ -12,7 +12,7 @@ The resurrection of Swift for TensorFlow touches on several disparate topics. Th
 - [philipturner/swift-reflection-mirror](https://github.com/philipturner/swift-reflection-mirror) - Reimplemented a runtime reflection feature that was strangely gated behind an inaccessible API. This briefly gave me a [good hearty scare](https://forums.swift.org/t/the-future-of-reflective-programming-in-swift/54956/17). Apple, why?
 - The Metal backend is prototyped in private repositories, but they may become public in the future. 
 
-The [s4tf](https://github.com/philipturner/s4tf) organization hosts inactive repositories formerly hosted by the [tensorflow](https://github.com/tensorflow) organization. Anyone is free to become a member, even just as something symbolic. Just contact me over GitHub or email to request to join.
+The [s4tf](https://github.com/philipturner/s4tf) organization hosts inactive repositories formerly hosted by the [tensorflow](https://github.com/tensorflow) organization.
 
 ## Not directly related
 
