@@ -18,4 +18,4 @@ The [s4tf](https://github.com/philipturner/s4tf) organization hosts inactive rep
 
 - [philipturner/metal-fft](https://github.com/philipturner/metal-fft) has turned into satire of Google's archiving of S4TF.
 - We finally have a community-based [working group](https://forums.swift.org/t/formalizing-a-numerical-ml-working-group/45553) for using Swift for numerical computing and machine learning.
-- [vojtamolda/tensor-thumbnail](https://github.com/vojtamolda/tensor-thumbnail) has removed its archive tombstone, and I seek to integrate it into mainline S4TF.
+- [vojtamolda/tensor-thumbnail](https://github.com/vojtamolda/tensor-thumbnail) has removed its archive tombstone, and it may eventually become part of mainline S4TF.
