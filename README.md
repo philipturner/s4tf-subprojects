@@ -14,9 +14,7 @@ The resurrection of Swift for TensorFlow touches on several disparate topics. Th
 
 The [s4tf](https://github.com/s4tf) organization hosts inactive repositories formerly hosted by the [tensorflow](https://github.com/tensorflow) organization.
 
-## Not directly related
+## Related Work
 
-- [philipturner/metal-fft](https://github.com/philipturner/metal-fft) has turned into satire of Google's archiving of S4TF.
-- We finally have a community-based [working group](https://forums.swift.org/t/formalizing-a-numerical-ml-working-group/45553) for using Swift for numerical computing and machine learning.
-- [vojtamolda/tensor-thumbnail](https://github.com/vojtamolda/tensor-thumbnail) has removed its archive tombstone, and it may eventually become part of mainline S4TF.
-- [This comment](https://github.com/apple/swift-package-manager/issues/4454#issuecomment-1174326871) on the investigation of SR-14008 outlines the future of S4TF.
+- [philipturner/metal-fft](https://github.com/philipturner/metal-fft) was archived as satire of Google's archival of S4TF.
+- We now have a community-based [working group](https://forums.swift.org/t/formalizing-a-numerical-ml-working-group/45553) for using Swift for numerical computing and machine learning.
