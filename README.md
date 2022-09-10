@@ -16,5 +16,5 @@ The [s4tf](https://github.com/s4tf) organization hosts inactive repositories for
 
 ## Related Work
 
-- [philipturner/metal-fft](https://github.com/philipturner/metal-fft) was archived as satire of Google's archival of S4TF.
+- [philipturner/metal-fft](https://github.com/philipturner/metal-fft) was archived as satire of how Google archived S4TF.
 - We now have a community-based [working group](https://forums.swift.org/t/formalizing-a-numerical-ml-working-group/45553) for using Swift for numerical computing and machine learning.
